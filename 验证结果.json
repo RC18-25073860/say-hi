@@ -1,0 +1,13 @@
+﻿{
+  "version": "1.0.121",
+  "release_type": "full-windows-installer",
+  "application_payload_files": 636,
+  "payload_identical_to_verified_121": true,
+  "legacy_114_setup_text_removed": true,
+  "inline_sop_screenshots": 5,
+  "offline_runtime_audit": true,
+  "python_regression_tests": 80,
+  "node_regression_tests": 25,
+  "live_outreach_tested": false,
+  "other_physical_windows_acceptance": false
+}
